@@ -20,6 +20,6 @@ app.get('/country=:cntry', (req, res) => {
   res.send(people);
 });
 
-app.listen(5000, () => {
+app.listen(3000, () => {
   console.log(`Serving on Port 5000`);
 });
