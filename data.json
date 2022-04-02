@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "name": "Will Smith",
+    "age": 40,
+    "country": "USA"
+  },
+  {
+    "id": 1,
+    "name": "Tom Cruise",
+    "age": 43,
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Ryan Reynolds",
+    "age": 35,
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Amir Khan",
+    "age": 51,
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "name": "Shah Rukh Khan",
+    "age": 50,
+    "country": "India"
+  },
+
+  {
+    "id": 5,
+    "name": "Charlie Cox",
+    "age": 35,
+    "country": "UK"
+  },
+  {
+    "id": 6,
+    "name": "Robert Pattinson",
+    "age": 38,
+    "country": "UK"
+  }
+]
